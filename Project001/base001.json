@@ -2,7 +2,7 @@
     "errorCode": "200",
     "errorMessage": "DEFAULT_FAIL",
     "message": "Failed.",
-    "result: {
+    "result": {
         "tokenType": "bearer",
         "accessToken": "device token",
         "refreshToken": "refresh token",
