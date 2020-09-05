@@ -1,0 +1,12 @@
+{
+    "errorCode": "200",
+    "errorMessage": "DEFAULT_FAIL",
+    "message": "Failed.",
+    "result: {
+        "tokenType": "bearer",
+        "accessToken": "device token",
+        "refreshToken": "refresh token",
+        "expires": 3600
+    },
+    "status": "100001"
+}
